@@ -13,8 +13,7 @@
     "start": "webpack serve --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
     "lint": "eslint .",
-    "test": "jest --coverage",
-    "show:dist": "live-server dist"
+    "test": "jest --coverage"
   },
   "repository": "git@github.com:Antikab/ahj-events.git",
   "author": "Arseny Prosvetov <arsprosvet@mail.ru>",
